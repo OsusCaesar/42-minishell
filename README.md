@@ -1,6 +1,7 @@
 # minishell
 
 > 42 Paris project — Reimplementing a simplified shell
+> This is a group project done by *tlecuyer* and *jferrand* (me)
 
 ## 📌 Description
 
